@@ -1,3 +1,4 @@
 The climate is dry and mars has little atmosphere.
 There is also significant radiations.
 Many metals and semiconductors work well.
+Materials that are radiation-tolerant will be important.
